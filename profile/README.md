@@ -26,6 +26,5 @@ Below, you'll find a list of all the bots currently in commission, as well as bo
 | [PasteMystBot](https://github.com/BrackeysCommunity/PasteMystBot)     | Integrates with PasteMyst API to paste codeblocks and attachments  |
 | [Pencil](https://github.com/BrackeysCommunity/Pencil)                 | Renders TeX and formats codeblocks                                 |
 | [Present](https://github.com/BrackeysCommunity/Present)               | Handle giveaways                                                   |
-| [Wingman](https://github.com/BrackeysCommunity/Wingman)               | Will handle listings in the Collaboration section                  |
 | [Stopwatch](https://github.com/BrackeysCommunity/Stopwatch)           | Automatic slow-mode management                                     |
 | [SuggestionBot](https://github.com/BrackeysCommunity/SuggestionBot)   | Allows members to post suggestions                                 |
