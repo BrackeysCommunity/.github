@@ -4,13 +4,18 @@
 
 Welcome to the official Brackeys Community GitHub organisation, home of all the repositories managed by the Brackeys Community Discord server.
 
+### Website
+
+Development of the upcoming [brackeys.community](https://brackeys.community) website can be found [here](https://github.com/BrackeysCommunity/brackeys.community).
+
 ### Bots
 
 Below, you'll find a list of all the bots currently in commission, as well as bots that will be introduced:
 
 | Bot                                                                   | Purpose                                                            |
 |-----------------------------------------------------------------------|--------------------------------------------------------------------|
-| [BrackeysBot v3](https://github.com/yiliansource/brackeys-bot/)       | The current version of BrackeysBot not long for this world         |
+| [BrackeysBot v3](https://github.com/yiliansource/brackeys-bot)        | The current version of BrackeysBot not long for this world         |
+| [Echo](https://github.com/BrackeysCommunity/Echo)                     | Dynamic voice channels                                             |
 | [EmbedBot](https://github.com/BrackeysCommunity/EmbedBot)             | Creates embeds                                                     |
 | [Hammer](https://github.com/BrackeysCommunity/Hammer)                 | Manages infractions against misbehaving users                      |
 | Hawkeye                                                               | Handles additional moderation features                             |
